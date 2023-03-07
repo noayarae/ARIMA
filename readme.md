@@ -1,3 +1,4 @@
-### Moving Average Model
+### ARMA Model
 
-This code run MA model
+Here, the ARMA model is computed in python and verified by hand in excel
+
